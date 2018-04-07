@@ -1,1 +1,1 @@
-python /users/rolandding/Desktop/moveSrt.py
+python ~/Projets/srt/moveSrt.py
